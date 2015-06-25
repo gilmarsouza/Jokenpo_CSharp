@@ -1,0 +1,34 @@
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\bin\Debug\Servidor.exe
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\bin\Debug\Servidor.pdb
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\bin\Debug\Jokepo.dll
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\bin\Debug\Jokepo.pdb
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\Jokenpo.Form1.resources
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\bin\Debug\Servidor.exe
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\bin\Debug\Servidor.pdb
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\bin\Debug\Jokepo.dll
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\bin\Debug\Jokepo.pdb
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\Jokenpo.ServidorFrm.resources
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\bin\Debug\Servidor.exe
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\bin\Debug\Jokepo.dll
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\bin\Debug\Jokepo.pdb
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\obj\x86\Debug\Jokenpo.ServidorFrm.resources
+C:\Users\gilmar.souza\Documents\Visual Studio 2010\Projects\Temp Trabalho\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Gilmar\Dropbox\Visual Studio 2010\Temp Trabalho\Servidor\bin\Debug\Servidor.exe.config
